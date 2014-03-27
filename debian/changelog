@@ -1,3 +1,9 @@
+rpi-update (20140321) unstable; urgency=low
+
+  * Update to latest upstream version, using curl rather than wget
+
+ -- Alex Bradbury <asb@asbradbury.org>  Thu, 27 Mar 2014 14:11:57 +0000
+
 rpi-update (20130510) unstable; urgency=low
 
   * Initial packaging
