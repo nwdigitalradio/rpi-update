@@ -8,5 +8,5 @@ Homepage: https://github.com/asb/rpi-update
 
 Package: rpi-update
 Architecture: all
-Depends: ${misc:Depends}, binutils, git-core
+Depends: ${misc:Depends}, binutils, curl
 Description: Raspberry Pi firmware updating tool

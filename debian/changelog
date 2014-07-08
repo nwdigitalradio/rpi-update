@@ -1,3 +1,9 @@
+rpi-update (20140705) unstable; urgency=low
+
+  * Update to latest upstream version, remove git dep and add curl dep
+
+ -- Alex Bradbury <asb@asbradbury.org>  Tue, 08 Jul 2014 14:26:48 +0100
+
 rpi-update (20140321) unstable; urgency=low
 
   * Update to latest upstream version, using curl rather than wget
