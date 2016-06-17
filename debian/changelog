@@ -1,3 +1,9 @@
+rpi-update (20160617) unstable; urgency=low
+
+  * Place dummy script in place to prevent people form using the program
+
+ --  Jeremy McDermond <nh6z@nh6z.net>  Fri, 17 Jun 2016 23:31:48 +0000
+
 rpi-update (20140705) unstable; urgency=low
 
   * Update to latest upstream version, remove git dep and add curl dep
